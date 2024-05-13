@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### Skill 
-<img src="https://img.shields.io/badge/Swift-F05138?style=badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=badge&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/> <img src= "https://img.shields.io/badge/ReactiveX-B7178C?style=badge&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=badge&logo=firebase&logoColor=white"/>
 
 <br/>
 
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 
 ### Other Experience
-- **SeSAC iOS** (2023.07 ~ 2024.01)
+- **SeSAC iOS 앱 개발자 데뷔 과정 PLUS** (2023.07 ~ 2024.01)
 - **멋쟁이 사자 앱스쿨 1기 iOS** (2022.09 ~ 2023.02)
