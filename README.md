@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 
 
 ### Project
-- **👥 People** : 관심있는 분야에 대해 소통하는 그룹 메신저 앱 <br/>
-  [[GitHub](https://github.com/suman0204/People)]
+- **👥 People** : 관심있는 분야에 대해 소통하는 그룹 메신저 앱 [[GitHub](https://github.com/suman0204/People)]
 - **👕 OOTD** : 코디 정보를 공유하는 커뮤니티 앱 <br/>
   [[GitHub](https://github.com/suman0204/OOTD)]
 - **🍽️ Where I Ate** : 방문한 음식점을 검색하고 방문에 대한 기록을 남기고 관리할 수 있는 앱 <br/>
