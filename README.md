@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 
 ### Education
-- **멋쟁이 사자 앱스쿨 1기 iOS** (2022.09 ~ 2023.02)
-  - Swift, SwiftUI, Firebase, HIG 학습
-  - 다양한 인원들과 다수의 협업 경험
-  - 여러 번의 앱 프로토타이핑과 MVP 앱 개발 경험
-  - 앱 개발의 전체적인 프로세스 경험
- 
 - **상명대학교 컴퓨터과학전공** (2016.03 ~ 2023.02)
+
+
+
+### Other Experience
+- **SeSAC iOS** (2023.07 ~ 2024.01)
+- **멋쟁이 사자 앱스쿨 1기 iOS** (2022.09 ~ 2023.02)
